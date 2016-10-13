@@ -27,7 +27,9 @@ public class InterfaceExample : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-	
+        Toaster T = new Toaster();
+        T.ThingName = "Talkie";
+        print(T.ThingName);
 	}
 	
 	// Update is called once per frame

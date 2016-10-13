@@ -66,10 +66,19 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\CompareExample.cs" />
+    <Compile Include="Assets\Scripts\DistanceComparer.cs" />
     <Compile Include="Assets\Scripts\DrawWord.cs" />
+    <Compile Include="Assets\Scripts\Enums.cs" />
+    <Compile Include="Assets\Scripts\Exceptions.cs" />
+    <Compile Include="Assets\Scripts\FileStream.cs" />
     <Compile Include="Assets\Scripts\Generalization.cs" />
     <Compile Include="Assets\Scripts\GetSet.cs" />
     <Compile Include="Assets\Scripts\InterfaceExample.cs" />
+    <Compile Include="Assets\Scripts\MultipleIntExample.cs" />
+    <Compile Include="Assets\Scripts\Preprocessor.cs" />
+    <Compile Include="Assets\Scripts\Preprocessor2.cs" />
+    <Compile Include="Assets\Scripts\TreadMillManager.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
