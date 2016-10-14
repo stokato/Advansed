@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/EnumeratorExample.unity
+- path: Assets/Scenes/Extentions.unity
   isLoaded: 1
   isActive: 1
